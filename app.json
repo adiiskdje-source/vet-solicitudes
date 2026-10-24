@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "VetSolicitudes",
+    "slug": "vet-solicitudes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.piero.vetsolicitudes"
+    },
+    "plugins": [
+      "expo-status-bar",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0e6b2c44-cd5b-4009-a790-e3443e06a3da"
+      }
+    },
+    "owner": "firzt"
+  }
+}
