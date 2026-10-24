@@ -4,13 +4,7 @@ Aplicación móvil en **React Native (Expo SDK 57)** para registrar y gestionar 
 
 Curso: Desarrollo de Aplicaciones Móviles 1 – IDAT (Evaluación parcial)
 
-## Integrantes
-| Integrante | Rol / aporte principal |
-|---|---|
-| _(Nombre 1)_ | _(ej. screens y navegación)_ |
-| _(Nombre 2)_ | _(ej. components y estilos)_ |
-| _(Nombre 3)_ | _(ej. store, validaciones y documentación)_ |
-
+Participante : Piero Blas Anay
 ## Requisitos
 - Node.js 18 o superior (`node -v`)
 - npm (incluido con Node)
